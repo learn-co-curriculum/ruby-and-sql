@@ -172,4 +172,4 @@ We'll learn more about storing data describing Ruby objects in and retrieving da
 * Why it is so useful to be able to connect our Ruby program and our database: because we can store information describing our Ruby objects!
 * How to use the code provided by the SQLite3-Ruby gem to created a connection between your Ruby program and your database. 
 
-<a href='https://learn.co/lessons/ruby-and-sql' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ruby-and-sql' title='Ruby and SQL'>Ruby and SQL</a> on Learn.co and start learning to code for free.</p>
